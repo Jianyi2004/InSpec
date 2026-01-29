@@ -1,0 +1,9 @@
+[
+  {
+    "example_id": 1,
+    "image_name": "example_1.jpg",
+    "image_path": "icl/example_1.jpg",
+    "description": "这张是无关图片，让模型知道看到这张图片就不要去管",
+    "added_at": "2026-01-29T10:13:22.979115"
+  }
+]

@@ -1,0 +1,16 @@
+# Prompt Foundry 依赖
+
+# Qwen-Agent (已通过 editable install 安装)
+# qwen-agent[gui]
+
+# 核心依赖
+gradio>=5.23.1
+pydantic>=2.9.2
+json5>=0.9.14
+
+# 工具依赖
+Pillow>=11.0.0
+requests>=2.31.0
+
+# 可选依赖
+python-dotenv>=1.0.0
